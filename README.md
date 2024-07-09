@@ -11,8 +11,8 @@ To set up the project, ensure you have Python 3.x installed. You can install the
 ```bash
 pip install requirements.txt
 
-## Features
-
+**FEATURE**
+***********
 Real-time Image Classification: Classify images in real-time using your webcam.
 Preprocessing: Convert images to grayscale, equalize the histogram, and normalize pixel values.
 Training: Train a CNN model on a custom dataset of images.
