@@ -1,4 +1,4 @@
-# Real-Time Digits Classification with CNN
+# Handwriting recognition using CNN
 
 ## Introduction
 
