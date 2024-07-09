@@ -1,4 +1,4 @@
-# Real-Time Image Classification with CNN
+# Real-Time Digits Classification with CNN
 
 ## Introduction
 
